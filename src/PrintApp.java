@@ -12,8 +12,7 @@ public class PrintApp {
 		int number2 = 3;
 	
 		System.out.println(number1);
-		//print the value of number1 to the console.
-	
+			
 		System.out.println("The value of number1 is " + number1);
 	
 		System.out.println("The value of number2 is " + number2);
@@ -28,14 +27,7 @@ public class PrintApp {
 		System.out.println(Substraction);
 	
 		double division = (number1 / number2);
-		System.out.println(division); 
-	
-	
-	
-		 
-		 
-		
+		System.out.println(division); 		
 
 	}
-
 }
